@@ -1,0 +1,35 @@
+_repo: Obras-dramaticas-de-Euripides-1-de-3-b-Hecuba-Hipolito-Las-Fenicias-Orestes-Alcestis-Medea_73500
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Barbery, Eduardo Mier y
+    gutenberg_agent_id: '57099'
+    url: http://www.gutenberg.org/2009/agents/57099
+creator:
+  author:
+    agent_name: Eurípides
+    gutenberg_agent_id: '57098'
+    url: http://www.gutenberg.org/2009/agents/57098
+description: ''
+gutenberg_issued: '2024-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73500'
+language: es
+pgterms:marc904: https://bibliotecafloridablanca.um.es/bibliotecafloridablanca/handle/11169/7866
+pgterms:marc905: 20231202041758eurpides
+pgterms:marc906: '1909'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box. (This file was produced from images generously
+  made available by Biblioteca Digital Floridablanca / Fondo antiguo de la Universidad
+  de Murcia.)
+publication_note: '  $aMadrid :$bLibrería de los sucesores de Hernando, $c1909, copyright
+  1909, copyright 1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Obras dramáticas de Eurípides (1 de 3) : $b Hécuba, Hipólito, Las Fenicias,
+  Orestes, Alcestis, Medea'
+url: http://www.gutenberg.org/ebooks/73500
