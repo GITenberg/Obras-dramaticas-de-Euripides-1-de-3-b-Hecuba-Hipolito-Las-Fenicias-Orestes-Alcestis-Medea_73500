@@ -5,12 +5,17 @@ contributor:
     agent_name: Barbery, Eduardo Mier y
     gutenberg_agent_id: '57099'
     url: http://www.gutenberg.org/2009/agents/57099
+covers:
+- cover_type: archival
+  image_path: 73500-h/images/cover.jpg
 creator:
   author:
     agent_name: Eurípides
     gutenberg_agent_id: '57098'
     url: http://www.gutenberg.org/2009/agents/57098
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73500#Obras-dramaticas-de-Euripides-1-de-3-b-Hecuba-Hipolito-Las-Fenicias-Orestes-Alcestis-Medea
 gutenberg_issued: '2024-04-30'
 gutenberg_type: Text
 identifiers:
